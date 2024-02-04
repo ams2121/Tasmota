@@ -154,7 +154,7 @@ static const RCSwitch::Protocol PROGMEM proto[] = {
   { 250,  0, { 0, 0 }, 1, {  18,  6 }, { 1,  3 }, { 3, 1 }, false,  0 },  // 36 Dooya remote DC2700AC for Dooya DT82TV curtains motor
   { 200,  0, { 0, 0 }, 0, {   0,  0 }, { 1,  3 }, { 3, 1} , false, 20 },	// 37 DEWENWILS Power Strip
   {  33,  0, { 0, 0 }, 1, {   1, 28 }, { 1,  3 }, { 3, 1 }, false,  0 },   // 38 EV1527 protocol, CMT2150/57L RFIC for kinetic powered switch
-  {  29,  0, { 0, 0 }, 0, {   0,  0 }, { 1,  0 }, { 0, 1 }, false,  0 }   // 39 everything!
+  {  15,  0, { 0, 0 }, 0, {   0,  0 }, { 1,  0 }, { 0, 1 }, false,  0 }   // 39 everything!
 
 };
 
